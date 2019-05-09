@@ -21,7 +21,7 @@ languages on the JVM :wink:.
 * some intentions in IntelliJ (such as create Class) don't work
   currently in a polyglot environment.
 * for now, Spock does not support JUnit5 natively (they are working on that
-  + you can still use the vintage engine).
+  & you can still use the vintage engine).
 
 ## Project
 
